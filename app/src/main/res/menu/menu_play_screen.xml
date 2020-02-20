@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".Playscreen">
+    <item android:id="@+id/gbackmenu"
+        android:title="@string/back"
+        android:icon="@drawable/shm"
+        app:showAsAction="ifRoom" />
+
+</menu>
