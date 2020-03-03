@@ -3,7 +3,6 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:background="#463379"
     android:orientation="horizontal"
     tools:context=".List_sura">
 
@@ -33,16 +32,6 @@
             android:textColor="#ffffff"
             android:textSize="22sp"/>
     </LinearLayout>
-    <LinearLayout
-        android:id="@+id/Li"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:background="#170c4c">
-        <ImageView
-            android:src="@drawable/sura"
-            android:layout_width="30dp"
-            android:layout_height="30dp"
-            android:layout_margin="15dp"/>
-    </LinearLayout>
+
 
 </LinearLayout>

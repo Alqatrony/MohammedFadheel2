@@ -8,20 +8,19 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.BaseAdapter;
-import android.widget.LinearLayout;
 import android.widget.TextView;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class ListAdapter extends BaseAdapter {
+public class ListAdapterSura extends BaseAdapter {
 
     LayoutInflater inflater;
     private List<Data> Datalist = null;
     private ArrayList<Data> arrayList;
     Context context;
 
-    public ListAdapter (Activity context, List<Data> openSite) {
+    public ListAdapterSura(Activity context, int menu_sura_list, List<Data> openSite) {
         this.context = context;
         this.Datalist = openSite;
         inflater = LayoutInflater.from(context);
@@ -47,11 +46,8 @@ public class ListAdapter extends BaseAdapter {
     public View getView(final int position, View view, ViewGroup parent) {
         View Item = inflater.inflate(R.layout.sura_list_item, null, true);
 
-        LinearLayout LL = (LinearLayout) Item.findViewById(R.id.Li);
 
-        LL.setBackgroundColor(Color.parseColor("#170c4c"));
-
-        TextView txtTitle = (TextView) Item.findViewById(R.id.title);
+        TextView txtTitle = Item.findViewById(R.id.title);
 
         txtTitle.setText(Datalist.get(position).getSubject());
 
@@ -67,10 +63,10 @@ public class ListAdapter extends BaseAdapter {
         });
 
         if (position % 2 == 0){
-            LL.setBackgroundColor(Color.parseColor("#038001"));
             txtTitle.setTextColor(Color.parseColor("#ffffff"));
         }
 
         return Item;
     }
+
 }

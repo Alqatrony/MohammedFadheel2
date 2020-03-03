@@ -2,16 +2,14 @@ package com.example.android.mohammedfadheel;
 
 import android.annotation.SuppressLint;
 import android.app.ActionBar;
-import android.app.Activity;
 import android.app.ProgressDialog;
 import android.os.Bundle;
-import android.text.Layout;
+import android.view.Menu;
 import android.view.View;
 import android.widget.LinearLayout;
-import android.widget.ListAdapter;
 import android.widget.ListView;
 import android.widget.ProgressBar;
-import android.widget.TextView;
+import android.widget.SearchView;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -23,10 +21,11 @@ public class List_sura extends AppCompatActivity {
     private ProgressDialog mProgressDialog;
     LinearLayout LayoutLoadin;
     ProgressBar progressBar;
-    ListAdapter adapter;
+    ListAdapterSura adapter;
     static String RecitesName="";
     String RecitesSURA="";
-
+    SearchView searchView;
+    Menu myMenu;
 
     @SuppressLint("WrongConstant")
     @Override
@@ -35,12 +34,9 @@ public class List_sura extends AppCompatActivity {
         setContentView(R.layout.sura_list);
 
         getSupportActionBar().setDisplayOptions(ActionBar.DISPLAY_SHOW_CUSTOM);
-        getSupportActionBar().setCustomView(R.layout.custom_actionbar);
 
-        TextView mTitleTextView = (TextView) findViewById(R.id.title_text);
-        mTitleTextView.setText(getString(R.string.app_name));
 
-        listView = (ListView) findViewById(R.id.sura_list);
+        listView = findViewById(R.id.sura_list);
 
         String[] AndRody_Subject = {getString(R.string.Sura1), getString(R.string.Sura2), getString(R.string.Sura3), getString(R.string.Sura4), getString(R.string.Sura5), getString(R.string.Sura6), getString(R.string.Sura7)
                 , getString(R.string.Sura8), getString(R.string.Sura9), getString(R.string.Sura10)
@@ -96,11 +92,14 @@ public class List_sura extends AppCompatActivity {
             arrayList.add(fadheel);
         }
 
+        adapter = new ListAdapterSura(this, arrayList);
+
         listView.setAdapter(adapter);
 
-        LayoutLoadin=(LinearLayout) findViewById(R.id.LayoutLoading);
-        progressBar=(ProgressBar)findViewById(R.id.progressBar);
+        LayoutLoadin = findViewById(R.id.LayoutLoading);
+        progressBar = findViewById(R.id.progressBar);
         LayoutLoadin.setVisibility(View.GONE);
 
     }
+
 }
