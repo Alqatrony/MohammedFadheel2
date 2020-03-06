@@ -1,0 +1,421 @@
+<resources>
+    <string name="app_name">MohammedFadheel</string>
+
+
+    <string name="search_title">Search</string>
+    <string name="back"> back</string>
+    <string name="title_activity_sura_list">Sura List</string>
+    <string name="downlaod">download</string>
+    <string name="title_activity_play_screen">Listen</string>
+
+
+    <string name="Sura1">سورة الفاتحة</string>
+    <string name="Link1">https://drive.google.com/uc?id=1__sRVOLHZp92Y-bT4dGbvnL2OzWWmsrX&amp;export=download&amp;title=1.%20Al-Fatiha.mp3</string>
+
+
+    <string name="Sura2">سورة البقرة</string>
+    <string name="Link2">http://audio.chirbit.com/mushaf_1566254320.mp3?AWSAccessKeyId=AKIAIHJD7T6NGQMM2VCA&amp;Expires=1583520604&amp;Signature=xjb3PZL7f2iXReNY3zJosWdO8NE%3D</string>
+
+
+    <string name="Sura3">سورة آل عمران</string>
+    <string name="Link3">http://audio.chirbit.com/mushaf_1566255325.mp3?AWSAccessKeyId=AKIAIHJD7T6NGQMM2VCA&amp;Expires=1583520769&amp;Signature=N%2Fm%2BrcDBMLM%2BA%2BIb5BTWXoYkvYw%3D</string>
+
+    <string name="Sura4">سورة النساء</string>
+    <string name="Link4">http://audio.chirbit.com/mushaf_1566255515.mp3?AWSAccessKeyId=AKIAIHJD7T6NGQMM2VCA&amp;Expires=1583520769&amp;Signature=c6l2Mqyg5Es2mV2pjBqwytoGmFA%3D</string>
+
+
+    <string name="Sura5">سورة المائدة</string>
+    <string name="Link5">https://drive.google.com/uc?id=1EvXR5akUx68SA6jiMJ7A3_GXBO5ZLeHt&amp;export=download&amp;title=4.Al-Maida.mp3</string>
+
+
+    <string name="Sura6">سورة الأنعام</string>
+    <string name="Link6">https://drive.google.com/uc?id=118tPu2xwGC3fbu3HjXQZvGZbHaPlwRk8&amp;export=download&amp;title=5.Al-Anaam.mp3</string>
+
+    <string name="Sura7">سورة الأعراف</string>
+    <string name="Link7">http://audio.chirbit.com/mushaf_1566276203.mp3?AWSAccessKeyId=AKIAIHJD7T6NGQMM2VCA&amp;Expires=1583520769&amp;Signature=z3iscY5Iol3izOg6qxwwUg0JrzM%3D</string>
+
+
+    <string name="Sura8">سورة الأنفال</string>
+    <string name="Link8">https://drive.google.com/uc?id=1TehdSna0CcaHg9wvykHSIM519hWv0hGU&amp;export=download&amp;title=7.%20Al-Anfal.mp3</string>
+
+
+    <string name="Sura9">سورة التوبة</string>
+    <string name="Link9">https://drive.google.com/uc?id=1Ws0mibgr163CJpkMwEnRgTXmdh6E-9Tf&amp;export=download&amp;title=8.%20Attawba.mp3</string>
+
+    <string name="Sura10">سورة يونس</string>
+    <string name="Link10">https://drive.google.com/uc?id=14PkS8XQ6j13gxN5sMzz4xg69Mv54vf3L&amp;export=download&amp;title=9.%20Yunus.mp3</string>
+
+    <string name="Sura11">سورة هود</string>
+    <string name="Link11">https://drive.google.com/uc?id=1HMulnmmhfo9oFDbJ-Kype0P342UZCdy9&amp;export=download&amp;title=10.%20Hood.mp3</string>
+
+
+    <string name="Sura12">سورة يوسف</string>
+    <string name="Link12">https://drive.google.com/uc?id=1985wQnTpQ0XfaRZNdMDdOHNtUBt8WmQz&amp;export=download&amp;title=11.%20Yusuf.mp3</string>
+
+
+    <string name="Sura13">سورة الرعد</string>
+    <string name="Link13">https://drive.google.com/uc?id=1tL_p57GyH-a7T5au3AHFhVhlEdDmx3ch&amp;export=download&amp;title=12.%20Arrad.mp3</string>
+
+    <string name="Sura14">سورة إبراهيم</string>
+    <string name="Link14">https://drive.google.com/uc?id=1cl4ichhkD0o-5IilSUsertJM1yRNa3m2&amp;export=download&amp;title=13.%20Ibrahim.mp3</string>
+
+
+    <string name="Sura15">سورة الحجر</string>
+    <string name="Link15">https://drive.google.com/uc?id=1vcEIM68J5BNC0XTOFRYmwkAB8aIb9Tcl&amp;export=download&amp;title=14.%20Al-Hijr.mp3</string>
+
+
+    <string name="Sura16">سورة النحل</string>
+    <string name="Link16">https://drive.google.com/uc?id=17LAZVz5UFMz2dLbZxB9rrl-w-UfjDgaK&amp;export=download&amp;title=15.%20Annahl.mp3</string>
+
+    <string name="Sura17">سورة الإسراء</string>
+    <string name="Link17">https://drive.google.com/uc?id=1Nh0A--0hkDU2PrQrCYPnp9OLPgDrQ6te&amp;export=download&amp;title=16.%20Al-Isra.mp3</string>
+
+
+    <string name="Sura18">سورة الكهف</string>
+    <string name="Link18">https://drive.google.com/uc?id=1u6Cvv6Vq3nMJPNT8o6hh4uPfIPgM-YYD&amp;export=download&amp;title=17.%20Al-Kahf.mp3</string>
+
+
+    <string name="Sura19">سورة مريم</string>
+    <string name="Link19">https://drive.google.com/uc?id=1v_DqZj8oQ7VapkHYopaAGnehfZV2PaJC&amp;export=download&amp;title=18.%20Maryem.mp3</string>
+
+    <string name="Sura20">سورة طه</string>
+    <string name="Link20">https://drive.google.com/uc?id=1KRt4PylYWaKl8BzST6wrey5V74Yj5NjT&amp;export=download&amp;title=19.%20Taha.mp3</string>
+
+    <string name="Sura21">سورة الأنبياء</string>
+    <string name="Link21">https://drive.google.com/uc?id=10dRgjRYLZD9VW_N5xJI51Qo3pTz8QAp3&amp;export=download&amp;title=20.%20Al-Anbiaa.mp3</string>
+
+
+    <string name="Sura22">سورة الحج</string>
+    <string name="Link22">https://drive.google.com/uc?id=1wD3u5nNilFKbz2nUM18TwCcZqdqwsi3X&amp;export=download&amp;title=21.%20Al-Haj.mp3</string>
+
+
+    <string name="Sura23">سورة المؤمنون</string>
+    <string name="Link23">https://drive.google.com/uc?id=11L5C8mlwp3wngWI0lG4JRrUg2dKL-0Sr&amp;export=download&amp;title=22.%20Al-Muminun.mp3</string>
+
+    <string name="Sura24">سورة النور</string>
+    <string name="Link24">https://drive.google.com/uc?id=1-6HvgdX59hdvGSYgLkPUReFXfoH5AJYP&amp;export=download&amp;title=23.%20Annur.mp3</string>
+
+
+    <string name="Sura25">سورة الفرقان</string>
+    <string name="Link25">https://drive.google.com/uc?id=1zkX_pv1h6QwxRQ-3XRNOUOzVmpXD2Ess&amp;export=download&amp;title=24.%20Al-Furkan.mp3</string>
+
+
+    <string name="Sura26">سورة الشعراء</string>
+    <string name="Link26">https://drive.google.com/uc?id=1oUZWIjZ14F7wqD3XkgnuMWmSFnEXMsT4&amp;export=download&amp;title=25.%20Asshuaraa.mp3</string>
+
+    <string name="Sura27">سورة النمل</string>
+    <string name="Link27">https://drive.google.com/uc?id=1zckp71yPQJiu0IoWvI6cq7LS61vrD8UR&amp;export=download&amp;title=26.%20Annaml.mp3</string>
+
+
+    <string name="Sura28">سورة القصص</string>
+    <string name="Link28">https://drive.google.com/uc?id=1XFs-pvnVxAb7pmPz424hIU9KE3ySWv5d&amp;export=download&amp;title=27.%20Al-Qasas.mp3</string>
+
+
+    <string name="Sura29">سورة العنكبوت</string>
+    <string name="Link29">https://drive.google.com/uc?id=1_PXxj2aw5b7jzvfV9NwYP36wKRdMnDLd&amp;export=download&amp;title=28.%20Al-Ankaboot.mp3</string>
+
+    <string name="Sura30">سورة الروم</string>
+    <string name="Link30">https://drive.google.com/uc?id=1sW3AvQQPPGZCVdggf_JkWiYcjpFdSD1o&amp;export=download&amp;title=29.%20Arrum.mp3</string>
+
+    <string name="Sura31">سورة لقمان</string>
+    <string name="Link31">https://drive.google.com/uc?id=1GqgEg5ktIAPkHD9Z7O-aUkAESxAyFssv&amp;export=download&amp;title=30.%20Lokman.mp3</string>
+
+
+    <string name="Sura32">سورة السجدة</string>
+    <string name="Link32">https://drive.google.com/uc?id=1hV6U3iihC4vEOLrIUjoQsMLmZsas9A4S&amp;export=download&amp;title=31.%20Assajda.mp3</string>
+
+
+    <string name="Sura33">سورة الأحزاب</string>
+    <string name="Link33">https://drive.google.com/uc?id=1rL5Dl1dUVi_oyZx6_Fm6wdfNzF2xmcmF&amp;export=download&amp;title=32.%20Al-Ahsab.mp3</string>
+
+    <string name="Sura34">سورة سبأ</string>
+    <string name="Link34">https://drive.google.com/uc?id=1JThzY8zXDbhm_OPotm07hiCBGiZu3bNF&amp;export=download&amp;title=33.%20Saba.mp3</string>
+
+
+    <string name="Sura35">سورة فاطر</string>
+    <string name="Link35">https://drive.google.com/uc?id=11cxLI2CJyOM4QFdSWGhHe-KaG85w6Usj&amp;export=download&amp;title=34.%20Fater.mp3</string>
+
+
+    <string name="Sura36">سورة يس</string>
+    <string name="Link36">https://drive.google.com/uc?id=14vCgU61-JHmJw966Z8b9EsIdFRp0Ozz1&amp;export=download&amp;title=35.%20Yasin.mp3</string>
+
+    <string name="Sura37">سورة الصافات</string>
+    <string name="Link37">https://drive.google.com/uc?id=1uiQnfd_70-2pPqYrVxVny0FQxgNNONyE&amp;export=download&amp;title=36.%20Assaffat.mp3</string>
+
+
+    <string name="Sura38">سورة ص</string>
+    <string name="Link38">https://drive.google.com/uc?id=1IJGLRfMbs0yT4mQq18ilbkcAw4UWam4H&amp;export=download&amp;title=37.%20Saad.mp3</string>
+
+
+    <string name="Sura39">سورة الزمر</string>
+    <string name="Link39">https://drive.google.com/uc?id=1uamlA2MGQbwyypmG55bQFWcsUEkWQu4B&amp;export=download&amp;title=38.%20Azzomar.mp3</string>
+
+    <string name="Sura40">سورة غافر</string>
+    <string name="Link40">https://drive.google.com/uc?id=1V-R4ueGRILSWIqfFy_XxxQIT0ImNT9iW&amp;export=download&amp;title=39.%20Gahfer.mp3</string>
+
+    <string name="Sura41">سورة فصلت</string>
+    <string name="Link41">https://drive.google.com/uc?id=1BzTFiFNI67NdvLK_Mtuj0IXRyzUFaj2N&amp;export=download&amp;title=40.%20Fussilat.mp3</string>
+
+
+    <string name="Sura42">سورة الشورى</string>
+    <string name="Link42">https://drive.google.com/uc?id=1auBvNiT95I-OyxHW0uplwopinf3Njmjw&amp;export=download&amp;title=41.%20Asshura.mp3</string>
+
+
+    <string name="Sura43">سورة الزخرف</string>
+    <string name="Link43">https://drive.google.com/uc?id=1hrrZI4TKgHqfNgaiybyMMh3HCN0WeZO5&amp;export=download&amp;title=42.%20Azzokhruf.mp3</string>
+
+    <string name="Sura44">سورة الدخان</string>
+    <string name="Link44">https://drive.google.com/uc?id=1vTRY7PyJIijDFnQzc6WYOQFQbNZz2wFf&amp;export=download&amp;title=43.Adokhan.mp3</string>
+
+
+    <string name="Sura45">سورة الجاثية</string>
+    <string name="Link45">https://drive.google.com/uc?id=1YqMCfQ1mtPhcSK2tCLZrgKUASYvLB-HF&amp;export=download&amp;title=44.%20Al-Jathya.mp3</string>
+
+
+    <string name="Sura46">سورة الأحقاف</string>
+    <string name="Link46">https://drive.google.com/uc?id=1Pw6VEP0S82Mtq9vvrT7w0aU-8JbtO7z4&amp;export=download&amp;title=45.%20Al-Ahqaf.mp3</string>
+
+    <string name="Sura47">سورة محمد</string>
+    <string name="Link47">https://drive.google.com/uc?id=1Qn-oGCu5693_ZFndCFGz7cd86erN-LeW&amp;export=download&amp;title=46.%20Muhamad.mp3</string>
+
+
+    <string name="Sura48">سورة الفتح</string>
+    <string name="Link48">https://drive.google.com/uc?id=1K9bCFM6fc14Y19j-JkOhgwfFv18EP4O9&amp;export=download&amp;title=47.%20Al-Fath.mp3</string>
+
+
+    <string name="Sura49">سورة الحجرات</string>
+    <string name="Link49">https://drive.google.com/uc?id=1VcmxAEZt41_Aa_j7ObKbhhzS13HoLLTc&amp;export=download&amp;title=48.%20Al-Hojorat.mp3</string>
+
+    <string name="Sura50">سورة ق</string>
+    <string name="Link50">https://drive.google.com/uc?id=1zzjdOyWv1FWLF4F5EfHhBksXgV7b3K30&amp;export=download&amp;title=49.%20Qaf.mp3</string>
+
+    <string name="Sura51">سورة الذاريات</string>
+    <string name="Link51">https://drive.google.com/uc?id=1Az6cWQk-11sgbVICnCpwmv3Thf0fpjhy&amp;export=download&amp;title=50.Athareyat.mp3</string>
+
+
+    <string name="Sura52">سورة الطور</string>
+    <string name="Link52">https://drive.google.com/uc?id=11mhs4xloSNJDIiWvmwChc6kZ_BAW9_zD&amp;export=download&amp;title=51.Attor.mp3</string>
+
+
+    <string name="Sura53">سورة النجم</string>
+    <string name="Link53">https://drive.google.com/uc?id=1Vcc5cGYsPnqSRqYWPsTIH19GGdhXt7aT&amp;export=download&amp;title=52.Annajm.mp3</string>
+
+    <string name="Sura54">سورة القمر</string>
+    <string name="Link54">https://drive.google.com/uc?id=1tYHnqxJOZ7hh7QVFdZmlGQC3QQ1tlRqm&amp;export=download&amp;title=53.Al-Qamar.mp3</string>
+
+
+    <string name="Sura55">سورة الرحمن</string>
+    <string name="Link55">https://drive.google.com/uc?id=1lW7NPRTr75OfkA28My7ndq7ySVuwzcO9&amp;export=download&amp;title=54.Arrahman.mp3</string>
+
+
+    <string name="Sura56">سورة الواقعة</string>
+    <string name="Link56">https://drive.google.com/uc?id=18ypJPtKEV-8HFkKPOZ3ZU59cqsJWQYZU&amp;export=download&amp;title=55.Al-Waqeaa.mp3</string>
+
+    <string name="Sura57">سورة الحديد</string>
+    <string name="Link57">https://drive.google.com/uc?id=1J_mqHYDTlsngpMBfBpJABZW6iWjV_4MN&amp;export=download&amp;title=56.Al-Hadid.mp3</string>
+
+
+    <string name="Sura58">سورة المجادلة</string>
+    <string name="Link58">https://drive.google.com/uc?id=10wyP475oILPR0Ur2y0KwTWln8Wr2vq6X&amp;export=download&amp;title=57.Al-Mojadila.mp3</string>
+
+
+    <string name="Sura59">سورة الحشر</string>
+    <string name="Link59">https://drive.google.com/uc?id=107aOU60QGfj50KaWjO4LvqUujWJxh7OV&amp;export=download&amp;title=58.%20Al-Hashr.mp3</string>
+
+    <string name="Sura60">سورة الممتحنة</string>
+    <string name="Link60">https://drive.google.com/uc?id=1UVyJnjRpeAc5obhX2bG0Fa9yjkSp3gub&amp;export=download&amp;title=59.%20Al-Momtahana.mp3</string>
+
+    <string name="Sura61">سورة الصف</string>
+    <string name="Link61">https://drive.google.com/uc?id=1tYRQTzKc7ef8I2GKL2jpXdvM86y_gRLr&amp;export=download&amp;title=60.%20Assaf.mp3</string>
+
+
+    <string name="Sura62">سورة الجمعة</string>
+    <string name="Link62">https://drive.google.com/uc?id=1K7Ydh2HGtX7SZcThB05XwkLPRnlK7haE&amp;export=download&amp;title=61.%20Al-Jomouaa.mp3</string>
+
+
+    <string name="Sura63">سورة المنافقون</string>
+    <string name="Link63">https://drive.google.com/uc?id=1eIb0sOqg8thoCA0rAwJblJY4Pd2af3Tw&amp;export=download&amp;title=62.%20Al-Monafiqoun.mp3</string>
+
+    <string name="Sura64">سورة التغابن</string>
+    <string name="Link64">https://drive.google.com/uc?id=1-hsajEgT_SATWPy8XetcxhS5HleWHPll&amp;export=download&amp;title=63.%20Attaghabun.mp3</string>
+
+
+    <string name="Sura65">سورة الطلاق</string>
+    <string name="Link65">https://drive.google.com/uc?id=1NnPzV4eeEsKSmDZSHsIc47oeHhVWsysi&amp;export=download&amp;title=64.%20Attalaq.mp3</string>
+
+
+    <string name="Sura66">سورة التحريم</string>
+    <string name="Link66">https://drive.google.com/uc?id=1o5K0UJmdxOoukFWtM_OusJHK-iL_0EfI&amp;export=download&amp;title=65.%20Attahreem.mp3</string>
+
+    <string name="Sura67">سورة الملك</string>
+    <string name="Link67">https://drive.google.com/uc?id=1IXzhe0G92Axu_TX_rrsFLi5Gz9QHVfEu&amp;export=download&amp;title=66.%20Al-Mulk.mp3</string>
+
+
+    <string name="Sura68">سورة القلم</string>
+    <string name="Link68">https://drive.google.com/uc?id=17q2G9jHtjyIwNBaDPhxYShX-q_BCQOtn&amp;export=download&amp;title=67.Al-Kalam.mp3</string>
+
+
+    <string name="Sura69">سورة الحاقة</string>
+    <string name="Link69">https://drive.google.com/uc?id=1-CRw0PTnpOOteGUYwp9_t9M_YszGhESs&amp;export=download&amp;title=68.%20Al-Haqa.mp3</string>
+
+    <string name="Sura70">سورة المعارج</string>
+    <string name="Link70">https://drive.google.com/uc?id=1kWtX-FUkzngL8fzdBPsDPfe7amErj7W3&amp;export=download&amp;title=69.%20Al-Maarej.mp3</string>
+
+    <string name="Sura71">سورة نوح</string>
+    <string name="Link71">https://drive.google.com/uc?id=1KHOmRb2q05VsXWHrgsWY8JQabz6nb3jB&amp;export=download&amp;title=70.%20Nuh.mp3</string>
+
+
+    <string name="Sura72">سورة الجن</string>
+    <string name="Link72">https://drive.google.com/uc?id=1bP4pm1pvz-LpFaF1QAaRwJjJ32TSJZS4&amp;export=download&amp;title=71.%20Al-Jin.mp3</string>
+
+
+    <string name="Sura73">سورة المزمل</string>
+    <string name="Link73">https://drive.google.com/uc?id=1MdtWbUTmPVtRFBK0E-7uHCN5m0AMvXVf&amp;export=download&amp;title=72.%20Al-Mozammel.mp3</string>
+
+    <string name="Sura74">سورة المدثر</string>
+    <string name="Link74">https://drive.google.com/uc?id=13X-958-omlS4Rf929j0dqX-MYgPyBpdY&amp;export=download&amp;title=73.%20Al-Moddather.mp3</string>
+
+
+    <string name="Sura75">سورة القيامة</string>
+    <string name="Link75">https://drive.google.com/uc?id=1RiGHt4fkYb0tJ2igtH9Q13gTbQTIlX6M&amp;export=download&amp;title=74.%20Al-Qyama.mp3</string>
+
+
+    <string name="Sura76">سورة الإنسان</string>
+    <string name="Link76">https://drive.google.com/uc?id=1u10OV-GnHt0ZQhoXDREqY6EoPdByPP6w&amp;export=download&amp;title=75.%20Al-Insan.mp3</string>
+
+    <string name="Sura77">سورة المرسلات</string>
+    <string name="Link77">https://drive.google.com/uc?id=1kuk8UOefg0a3tR3ay1hGIQQiUA8mGmmm&amp;export=download&amp;title=76.%20Al-Mursalat.mp3</string>
+
+
+    <string name="Sura78">سورة النبأ</string>
+    <string name="Link78">https://drive.google.com/uc?id=1UkT4ZxsX0s4p4t00hdJp0yP5iVxSoHMe&amp;export=download&amp;title=77.%20Anaaba.mp3</string>
+
+
+    <string name="Sura79">سورة النازعات</string>
+    <string name="Link79">https://drive.google.com/uc?id=1HA7kKKEZ0L6iZTY8Aul_r7IfsFkjSDJf&amp;export=download&amp;title=78.%20Annaziaat.mp3</string>
+
+    <string name="Sura80">سورة عبس</string>
+    <string name="Link80">https://drive.google.com/uc?id=1ws-JAdE6LNNktoNWU3b4lj9yrhorWPOg&amp;export=download&amp;title=79.%20Abasa.mp3</string>
+
+    <string name="Sura81">سورة التكوير</string>
+    <string name="Link81">https://drive.google.com/uc?id=1fLOyCCHdVfvI-o-5krs8Nt4B1rMPVVY8&amp;export=download&amp;title=80.%20Attakweer.mp3</string>
+
+
+    <string name="Sura82">سورة الانفطار</string>
+    <string name="Link82">https://drive.google.com/uc?id=1qzGDpmBVCyEA6UedmhFxgp8ovq9oJDbp&amp;export=download&amp;title=81.%20Al-Infitar.mp3</string>
+
+
+    <string name="Sura83">سورة المطففين</string>
+    <string name="Link83">https://drive.google.com/uc?id=1sNuCLeY0VdJxQ0r3554wJNtHo0QZV_OM&amp;export=download&amp;title=82.%20Al-Mutaffefeen.mp3</string>
+
+    <string name="Sura84">سورة الانشقاق</string>
+    <string name="Link84">https://drive.google.com/uc?id=1q3DySR9aIaYsEyflF0s6wJLCxYqaJ2r-&amp;export=download&amp;title=83.%20Al-Inshiqaq.mp3</string>
+
+
+    <string name="Sura85">سورة البروج</string>
+    <string name="Link85">hhttps://drive.google.com/uc?id=1zgVFeIY2HlDUo6axFlwqT8LnDrS-7dZV&amp;export=download&amp;title=84.%20Al-Borooj.mp3</string>
+
+
+    <string name="Sura86">سورة الطارق</string>
+    <string name="Link86">https://drive.google.com/uc?id=146RUPXzIeSFmVyYNLccKjSZUvu3VRUZM&amp;export=download&amp;title=85.%20Attariq.mp3</string>
+
+    <string name="Sura87">سورة الأعلى</string>
+    <string name="Link87">https://drive.google.com/uc?id=1BZ1Qcp3P19fs-ppNNc9uwkS3Pdix1qHz&amp;export=download&amp;title=86.%20Al-Aala.mp3</string>
+
+
+    <string name="Sura88">سورة الغاشية</string>
+    <string name="Link88">https://drive.google.com/uc?id=1jjxC0exEtEPYMyZOZ9h_Oh_SEhknzFQx&amp;export=download&amp;title=87.%20Al-Ghasheyah.mp3</string>
+
+
+    <string name="Sura89">سورة الفجر</string>
+    <string name="Link89">https://drive.google.com/uc?id=1DwsfytHZp6GCQLbcV00oPHnTotAwLmjv&amp;export=download&amp;title=88.%20Al-Fajr.mp3</string>
+
+    <string name="Sura90">سورة البلد</string>
+    <string name="Link90">https://drive.google.com/uc?id=1aUv4YJnmyolLPm8nsymjr2NFLgguUuDn&amp;export=download&amp;title=89.%20Al-Balad.mp3</string>
+
+    <string name="Sura91">سورة الشمس</string>
+    <string name="Link91">https://drive.google.com/uc?id=1u_G3pLUL5hMaNUKFg2F8hFFktQSrYBcF&amp;export=download&amp;title=90.%20Aschams.mp3</string>
+
+
+    <string name="Sura92">سورة الليل</string>
+    <string name="Link92">https://drive.google.com/uc?id=1ohGwnNlg1cWA_uy37W7yuodZil0dX0OW&amp;export=download&amp;title=91.%20Al-Leil.mp3</string>
+
+
+    <string name="Sura93">سورة الضحى</string>
+    <string name="Link93">https://drive.google.com/uc?id=1eBYiU8Q-thAGxB5zzZOajphcmeMeEuln&amp;export=download&amp;title=92.%20Adduha.mp3</string>
+
+    <string name="Sura94">سورة الشرح</string>
+    <string name="Link94">https://drive.google.com/uc?id=1Ms6SgHFhvQ5b2ePAIzcwGY3yJ_yKZyFZ&amp;export=download&amp;title=93.%20Asharh.mp3</string>
+
+
+    <string name="Sura95">سورة التين</string>
+    <string name="Link95">https://drive.google.com/uc?id=1uqtiiy4k_xUcgvli_TFUbs7KTc_n993d&amp;export=download&amp;title=94.%20Attin.mp3</string>
+
+
+    <string name="Sura96">سورة العلق</string>
+    <string name="Link96">https://drive.google.com/uc?id=1mYXizt-knrhFJVENj9bGLrmwF3oaMmXp&amp;export=download&amp;title=95.%20Al-Alaq.mp3</string>
+
+    <string name="Sura97">سورة القدر</string>
+    <string name="Link97">https://drive.google.com/uc?id=1Ud5ItQiOVuVNpXel_Nq5phV--jFE7VKd&amp;export=download&amp;title=96.%20Al-Qadr.mp3</string>
+
+
+    <string name="Sura98">سورة البينة</string>
+    <string name="Link98">https://drive.google.com/uc?id=18HC_2OM1ci0bgaJSty9LAtHwUMLqFijZ&amp;export=download&amp;title=97.%20Al-Bayyina.mp3</string>
+
+
+    <string name="Sura99">سورة الزلزلة</string>
+    <string name="Link99">https://drive.google.com/uc?id=1GBAE3mN-q5FkbFTuvcLWdJatKRMB1yRT&amp;export=download&amp;title=98.%20Azzalzala.mp3</string>
+
+    <string name="Sura100">سورة العاديات</string>
+    <string name="Link100">https://drive.google.com/uc?id=1wuYexxq3UEBm5zt2WE4bMh2bg_eP6Crh&amp;export=download&amp;title=99.%20Al-Aadiyaat.mp3</string>
+
+    <string name="Sura101">سورة القارعة</string>
+    <string name="Link101">https://drive.google.com/uc?id=1C-cYpCz-f40rS8iKPMVEFfX9_bKGFH-t&amp;export=download&amp;title=100.%20Al-Qaaria.mp3</string>
+
+
+    <string name="Sura102">سورة التكاثر</string>
+    <string name="Link102">https://drive.google.com/uc?id=1lfkMttaTUh0xAmaNUQ2wygUJdxplSbJ0&amp;export=download&amp;title=101.%20Attakaathur.mp3</string>
+
+
+    <string name="Sura103">سورة العصر</string>
+    <string name="Link103">https://drive.google.com/uc?id=1MXpipo3Hpm8Y05wbev0UiSsihEUjukU8&amp;export=download&amp;title=102.%20Al-Asr.mp3</string>
+
+    <string name="Sura104">سورة الهمزة</string>
+    <string name="Link104">https://drive.google.com/uc?id=1zMVupJxVMISyMQar2HmkKLwTrEIAJQTB&amp;export=download&amp;title=103.%20Al-Humaza.mp3</string>
+
+
+    <string name="Sura105">سورة الفيل</string>
+    <string name="Link105">https://drive.google.com/uc?id=1Ku4-FkSAgAX-wDMlEQC9WuPMWn_LlqTJ&amp;export=download&amp;title=104.%20Al-Fil.mp3</string>
+
+
+    <string name="Sura106">سورة قريش</string>
+    <string name="Link106">https://drive.google.com/uc?id=1mozBxo97IUPbRZh9i_NQOBErxV8Cw4Tb&amp;export=download&amp;title=105.%20Quraish.mp3</string>
+
+    <string name="Sura107">سورة الماعون</string>
+    <string name="Link107">https://drive.google.com/uc?id=1-bofQtTc6WdC054B9zeDVfoCbfWhfkuF&amp;export=download&amp;title=106.%20Al-Maaun.mp3</string>
+
+
+    <string name="Sura108">سورة الكوثر</string>
+    <string name="Link108">https://drive.google.com/uc?id=1ERT4U8VDtgjP5_tiUAArPSISpV8SoIlg&amp;export=download&amp;title=107.%20Al-Kawthar.mp3</string>
+
+
+    <string name="Sura109">سورة الكافرون</string>
+    <string name="Link109">https://drive.google.com/uc?id=1XTfFGcT85SnafjLLdW5Xha3rCSNyt_7v&amp;export=download&amp;title=108.%20Al-Kafiroon.mp3</string>
+
+    <string name="Sura110">سورة النصر</string>
+    <string name="Link110">https://drive.google.com/uc?id=19JsDVuaIOIk4PU9X6OuRmCYo-yJlQV4P&amp;export=download&amp;title=109.%20Annasr.mp3</string>
+
+    <string name="Sura111">سورة المسد</string>
+    <string name="Link111">https://drive.google.com/uc?id=1l3hXJtOeS5WaXoPAksFP3OhZvLuJnr4d&amp;export=download&amp;title=110.%20Al-Masad.mp3</string>
+
+
+    <string name="Sura112">سورة الإخلاص</string>
+    <string name="Link112">https://drive.google.com/uc?id=1nOVAS5smayLPdho6NObyc_VwzTAPMttS&amp;export=download&amp;title=111.%20Al-Ikhlaas.mp3</string>
+
+
+    <string name="Sura113">سورة الفلق</string>
+    <string name="Link113">https://drive.google.com/uc?id=1jCPbHdd2CCIBLsgobkAKRC6isWqKSW65&amp;export=download&amp;title=112.%20Al-Falaq.mp3</string>
+
+    <string name="Sura114">سورة الناس</string>
+    <string name="Link114">https://drive.google.com/uc?id=1-rAaRbwuvauwgiCla4-fzx1kU3p88zTg&amp;export=download&amp;title=113.%20An-Naas.mp3</string>
+</resources>
